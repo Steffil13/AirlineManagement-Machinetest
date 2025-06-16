@@ -1,0 +1,11 @@
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.deps.json
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.dll
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.pdb
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfoInputs.cache
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfo.cs
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.csproj.CoreCompileInputs.cache
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.dll
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\refint\ClassLibraryValidation.dll
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.pdb
+I:\Projects\AirlineManagement-Solution\ClassLibraryValidation\obj\Debug\net8.0\ref\ClassLibraryValidation.dll

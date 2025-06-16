@@ -1,0 +1,12 @@
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\bin\Debug\net8.0\DBConnectionHelper.deps.json
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\bin\Debug\net8.0\DBConnectionHelper.dll
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\bin\Debug\net8.0\DBConnectionHelper.pdb
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.csproj.AssemblyReference.cache
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.GeneratedMSBuildEditorConfig.editorconfig
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.AssemblyInfoInputs.cache
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.AssemblyInfo.cs
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.csproj.CoreCompileInputs.cache
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.dll
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\refint\DBConnectionHelper.dll
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\DBConnectionHelper.pdb
+I:\Projects\AirlineManagement-Solution\DBConnectionHelper\obj\Debug\net8.0\ref\DBConnectionHelper.dll
